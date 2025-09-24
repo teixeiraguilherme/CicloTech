@@ -6,11 +6,8 @@
 
 
 
-Linguagem usada no projeto: Python
 
-
-
-Principais funcionalidades da 1a release:
+<h2>🖋️REQUESITOS PRIMEIRA VA</h2>
 
 
 
@@ -96,6 +93,13 @@ Principais funcionalidades da 1a release:
 - atualização do impacto do sistema para a população e para o planeta
 
 
+
+
+<h2> ⚙️ LINGUAGENS </h2>
+
+<h3>PYTHON 3</h3>
+
+<h2>📚 BIBLIOTECAS </h2>
 
 
 
